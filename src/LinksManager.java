@@ -77,7 +77,7 @@ class LinksManager {
     }
 
     private void truncateLinkFile() throws IOException {
-
+        //admittly inefficient without buffering
         try (RandomAccessFile f = new RandomAccessFile(linkFile, "rw")) {
 
             byte b;

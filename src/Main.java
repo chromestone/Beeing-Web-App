@@ -7,7 +7,6 @@ import java.util.concurrent.*;
 
 import fi.iki.elonen.NanoHTTPD;
 
-import javax.xml.crypto.Data;
 // NOTE: If you're using NanoHTTPD >= 3.0.0 the namespace is different,
 //       instead of the above import use the following:
 // import org.nanohttpd.NanoHTTPD;

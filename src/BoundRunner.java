@@ -5,7 +5,7 @@ import java.util.concurrent.ExecutorService;
 
 /**
  * The BoundRunner class
- * Created by Derek Zhang on 5/5/18.
+ * I'm not the author, don't sue me (this is from NanoHTTPD)
  * BoundRunner
  * <p>
  * The default threading strategy for NanoHTTPD launches a new thread every time. We override that here so we can put an
