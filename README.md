@@ -1,5 +1,5 @@
 # Being
-This is a half hardcoded quick local web app I made to speed up data collection for a research project.
+This is a half hardcoded ad-hoc local web app I made to speed up data collection for a research project.
 
 Basically, you connect the app through the browser and scroll through YouTube videos. You can record data on the videos as you go.
 
