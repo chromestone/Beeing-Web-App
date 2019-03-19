@@ -9,7 +9,7 @@ Basically, you connect the app through the browser and scroll through YouTube vi
 
 * Run Main.java.
 
-* Choose a directory, you must have the files listed in the example directory already created. _Note that the links.txt file will be consumed. Links are taken out as you go._ (And there is no back button! So I highly recommend backup links.)
+* Choose a directory, you must have the files listed like in the example directory provided. _Note that the links.txt file will be consumed. Links are taken out as you go._ (And there is no back button! So I highly recommend backing up links.)
 
 * Tracker contains a mapping from id to video and data contains the descriptions.
 
